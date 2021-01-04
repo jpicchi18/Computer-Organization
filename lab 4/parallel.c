@@ -1,7 +1,6 @@
 //OpenMP version.  Edit and submit only this file.
 /* Enter your details below
  * Name : Joseph Picchi
- * UCLA ID : 605124511
  * Email : jpicchi22@g.ucla.edu
  */
 

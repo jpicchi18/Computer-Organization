@@ -1,7 +1,7 @@
 /* 
  * CS:APP Data Lab 
  * 
- * <Joseph Picchi><605124511>
+ * <Joseph Picchi>
  * 
  * bits.c - Source file with your solutions to the Lab.
  *          This is the file you will hand in to your instructor.
